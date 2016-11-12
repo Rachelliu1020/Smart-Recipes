@@ -17,26 +17,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity
-            android:name=".Customize_Activity"
-            android:label="Customize your Recipes" >
-        </activity>
-
-        <activity
-            android:name=".BreakfastGallery"
-            android:label="Breakfast Recipes">
-        </activity>
-
-        <activity
-            android:name=".LunchGallery"
-            android:label="Lunch Recipes">
-        </activity>
-
-        <activity
-            android:name=".DinnerGallery"
-            android:label="Dinner Recipes">
-        </activity>
+        <activity android:name=".Customize_Activity"></activity>
+        <activity android:name=".RecipesGallery"></activity>
+        <activity android:name=".Recipe_Activity"></activity>
     </application>
 
 </manifest>

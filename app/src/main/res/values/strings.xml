@@ -5,4 +5,60 @@
     <string name="hello_blank_fragment1">Hello blank fragment1</string>
     <string name="hello_blank_fragment2">Hello blank fragment2</string>
     <string name="hello_blank_fragment3">Hello blank fragment3</string>
+
+
+    <string-array name="dinner1">
+        <item>dinner</item>
+        <item>Sizzling steak stir-fry</item>
+        <item>d_1</item>
+        <item>320 g tenderstem broccoli;2 x 250 g lean flank steak;2 teaspoons coriander seeds;250 g medium free-range egg noodles;3 teaspoons sesame oil;1 red onion;2 cloves of garlic;6 cm piece of fresh ginger;olive oil;3 tablespoons soy sauce;1 lime;1 fresh red chilli</item>
+        <item>1. Trim the broccoli, cutting any larger broccoli stems in half lengthways, then place in a heatproof bowl and cover with boiling water. Add a good pinch of sea salt and leave for 10 minutes, then drain and put to one side. Half-fill a pan with water and bring to the boil.;2. Slice the steaks against the grain into finger-sized strips and season with sea salt and black pepper.;3. Pound the coriander seeds in a pestle and mortar, or bash with the base of a pan, until fine. Sprinkle over the steak so they stick to it and give it a lovely, fragrant flavour.;4. Drop the noodles into the pan of boiling salted water and cook until just tender. Drain, then toss with 2 teaspoons of sesame oil and return to the pan. Cover to keep warm.;5. Peel and finely slice the onion and garlic, then peel and finely chop the ginger.;6. Heat a splash of olive oil in a wok or large frying pan over a high heat, then add the onions, garlic and ginger. Fry for a couple of minutes, or until the onions have softened slightly.;7. Add the seasoned pieces of steak and stir-fry for 1 to 2 minutes, then add the broccoli and fry for a further 2 minutes, stirring constantly.;8. Pour in the soy sauce and 1 teaspoon of sesame oil, toss in the pan until everything is well coated, then serve with the egg noodles.;9. Cut the lime into wedges for squeezing over, and finely slice the chilli (deseed if you like), then sprinkle over the top.</item>
+        <item>511</item>
+    </string-array>
+
+    <string-array name="dinner2">
+        <item>dinner</item>
+        <item>Moroccan-style roast chicken</item>
+        <item>d_2</item>
+        <item>2 preserved lemons;1 tablespoon ras el hanout;1 dried chilli;1 x whole 1.6kg free-range chicken;olive oil;1 teaspoon rose petals (unsprayed) , optional; a few sprigs of fresh coriander</item>
+        <item>1. Preheat the oven to 180ºC/gas 4.;2. Finely chop 1 of the preserved lemons and bash together with the ras el hanout, dried chilli and a pinch of sea salt and black pepper using a pestle and mortar.;3. Slice the remaining lemon and divide between the base of a roasting tray and the cavity of the chicken.;4. Slash the chicken breast a few times and rub in the marinade. Drizzle with oil, rub again, and place in the roasting tray.;5. Scatter with rose petals (if using), and roast for 1 hour 20 minutes, until the skin is sticky and chicken is cooked. Pick, then scatter over the coriander leaves to serve</item>
+        <item>301</item>
+    </string-array>
+
+
+    <string-array name="dinner3">
+        <item>dinner</item>
+        <item>LA-style turkey salad</item>
+        <item>d_3</item>
+        <item>1/2 teaspoon cayenne pepper;1 tablespoon paprika;1/2 teaspoon white pepper;1 teaspoon dried oregano;extra vigin olive oil;2 skinless free-range turkey breasts , or about 600g free-range chicken, if you prefer;2 ripe avocados;4 tablespoons fat-free plain yoghurt;2 limes , plus extra to serve;1 fresh jalapeno or red chilli;1 large bunch of coriander;2 corn tortillas</item>
+        <item>1. Preheat the oven to 180C/gas 4. Place a griddle pan over a high heat. Mix the cayenne pepper, paprika, white pepper and oregano with a good pinch of sea salt and a little oil and rub all over the turkey breasts. Put the turkey in the pan, turn the heat to medium, and cook for 20 to 25 minutes, turning halfway.;2. Meanwhile, make the salad and dressing. Halve, destone and peel one of the avocados, then blitz in a blender with the yoghurt, lime juice, chilli, most of the coriander and a good drizzle of oil until you have a creamy dressing. Season to taste, add a splash of water to loosen, if needed, then set aside.;3. Slice the corn tortilla into 1cm strips, place onto a baking tray and bake in the oven for a few minutes, until golden and crisp.;4. When your turkey is almost cooked, add the bacon to the pan for the last few minutes to crisp up. Once done, transfer the turkey to a board to rest, then thinly slice.;5. Cut the lettuces into wedges, then crudely toss in a bowl with the turkey and avocado dressing, then scatter over a board. Crumble over the bacon, add the tortilla strips, then use a spoon to scoop out little nuggets of the remaining avocado and add these.;6. Peel and segment the grapefruit, then scatter over the board with the cress (if using), and the remaining coriander leaves. Serve with lime wedges for squeezing over.</item>
+        <item>301</item>
+    </string-array>
+
+    <string-array name="dinner4">
+        <item>dinner</item>
+        <item>Kerryann’s chilli con veggie</item>
+        <item>d_4</item>
+        <item>2 medium onions;4 cloves of garlic;1 medium leek;1 long fresh red chilli;2 tablespoons olive oil;2 tablespoons ground cumin;2 tablespoons ground coriander;2 tablespoons smoked paprika;½ a cinnamon stick , or 1 teaspoon ground cinnamon;2 tablespoons dried oregano;1 whole nutmeg , for grating;2 tablespoons tomato purée;250 g dried green lentils;250 g dried red lentils;2 x 400 g tins of red kidney beans;2 x 400 g tins of black beans;2 x 400 g tins of chopped tomatoes</item>
+        <item>1. Peel and finely chop the onions and garlic, then trim and finely chop the leek and chilli (I leave the seeds in, but deseed if you prefer), and place into your largest, heavy-based pan over a medium heat with the oil. Fry for about 5 minutes, or until softened.;2. Add the spices, dried herbs and a good grating of nutmeg, then fry for 2 minutes – if it’s a little dry at this point, simply add a splash of water to help it out. Stir in the tomato purée and cook for a further 2 minutes.;3. Stir in the lentils. Drain, rinse and stir in the beans, followed by the chopped tomatoes and the stock (I try to use homemade stock, but if you’ve only got stock cubes, that’s fine too).;4. Bring it all to the boil, then reduce to a low heat and let it bubble away for at least 1 hour, or until thickened and reduced, stirring every 15 to 20 minutes, then season to how you like it.;5. I like this with rice or on a jacket potato, scattered with coriander leaves and with lime wedges and a dollop of soured cream on the side.</item>
+        <item>388</item>
+    </string-array>
+
+    <string-array name="dinner5">
+        <item>dinner</item>
+        <item>Rigatoni with roasted tomatoes &amp; ricotta salata</item>
+        <item>d_5</item>
+        <item>1.5 kg vine tomatoes;4 cloves of garlic, unpeeled;3 bay leaves;5 thyme sprigs;A splash of red wine vinegar;400 g dried rigatoni;80 g ricotta salata;A small bunch of basil , leaves picked (optional)</item>
+        <item>1. Preheat the oven to 200C/gas 6. Put the tomatoes on a large baking tray, and season. Scatter over the garlic cloves, thyme sprigs and bay leaves then transfer to the oven and roast for 25 minutes, until the tomato skins are burnished and split.;2. Let the tomatoes cool for a minute or two, then pull them off the vines and place in a frying pan with the red wine vinegar and a pinch more salt and pepper. Squash with a spoon and simmer for 15 minutes, until you have a thick, strawberry-red sauce with an almost creamy consistency.;3. Bring a pan of salted water to the boil and cook the rigatoni according to the packet instructions. Drain, reserving a cupful of cooking water, and add to the sauce with a little of the water to loosen. Drizzle over a good glug of olive oil and serve with grated ricotta and a scattering of basil leaves, if you like.</item>
+        <item>181</item>
+    </string-array>
+
+    <string-array name="dinner6">
+        <item>dinner</item>
+        <item>Spring chicken pie</item>
+        <item>d_6</item>
+        <item>2 lemons;500 g Jersey Royals;1/2 a bunch of fresh tarragon;1 bunch of fresh flat-leaf parsley;8 free-range chicken thighs, bone in, skin on, from sustainable sources;6 cloves of garlic;olive oil;50 g unsalted butter;2 tablespoons plain flour;400 ml chicken stock;2 teaspoons Dijon mustard;75 g watercress;5 sheets of filo pastry</item>
+        <item>1. Preheat the oven to 190ºC/gas 5.;2. Halve the lemons, quarter the Jersey Royals, then pick and finely chop the tarragon and parsley.;3. Put the chicken, unpeeled garlic cloves, lemon and potatoes in a large baking tray, drizzle with oil, season, then toss together and pop in the oven for 45 minutes, or until golden, crispy and cooked. Remove from the oven and allow to cool.;4. Meanwhile, melt the butter in a large non-stick saucepan until bubbling. Add the flour and stir for 1 to 2 minutes to form a paste, then slowly pour in the stock, whisking until thickened. Add the mustard, then season.;5. Once the chicken is cool enough to handle, remove and reserve the skin and discard any gristle. Shred the meat, discarding the bones.;6. Squeeze the garlic from its skins back into the roasting tray and squeeze over all the juice from the lemons and toss well.;7. Pour over the thickened stock and add the herbs and watercress. Check the seasoning, then finely chop the chicken skins and sprinkle over the filling.;8. Lay out sheets of filo on a clean surface and cut each one in half. Lightly scrunch up and place on top of the pie filling, brushing with the melted butter.;9.Bake for 25 minutes, or until crispy and golden, then serve with a crisp green salad.</item>
+        <item>558</item>
+    </string-array>
 </resources>
