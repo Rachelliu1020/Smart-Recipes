@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         if(helper.getAllNumOfRecipes(db)==0){
             db.beginTransaction();
             try{
+                //insert 6 dinner recipes
                 String[] d_1 = getResources().getStringArray(R.array.dinner1);
                 String[] d_2 = getResources().getStringArray(R.array.dinner2);
                 String[] d_3 = getResources().getStringArray(R.array.dinner3);
@@ -42,6 +43,37 @@ public class MainActivity extends AppCompatActivity {
                 helper.insertRecipe(db, d_4[0], d_4[1], d_4[2], d_4[3], d_4[4], Integer.parseInt(d_4[5]));
                 helper.insertRecipe(db, d_5[0], d_5[1], d_5[2], d_5[3], d_5[4], Integer.parseInt(d_5[5]));
                 helper.insertRecipe(db, d_6[0], d_6[1], d_6[2], d_6[3], d_6[4], Integer.parseInt(d_6[5]));
+
+                //insert 6 breakfast recipes
+                String[] b_1 = getResources().getStringArray(R.array.breakfast1);
+                String[] b_2 = getResources().getStringArray(R.array.breakfast2);
+                String[] b_3 = getResources().getStringArray(R.array.breakfast3);
+                String[] b_4 = getResources().getStringArray(R.array.breakfast4);
+                String[] b_5 = getResources().getStringArray(R.array.breakfast5);
+                String[] b_6 = getResources().getStringArray(R.array.breakfast6);
+
+                helper.insertRecipe(db, b_1[0], b_1[1], b_1[2], b_1[3], b_1[4], Integer.parseInt(b_1[5]));
+                helper.insertRecipe(db, b_2[0], b_2[1], b_2[2], b_2[3], b_2[4], Integer.parseInt(b_2[5]));
+                helper.insertRecipe(db, b_3[0], b_3[1], b_3[2], b_3[3], b_3[4], Integer.parseInt(b_3[5]));
+                helper.insertRecipe(db, b_4[0], b_4[1], b_4[2], b_4[3], b_4[4], Integer.parseInt(b_4[5]));
+                helper.insertRecipe(db, b_5[0], b_5[1], b_5[2], b_5[3], b_5[4], Integer.parseInt(b_5[5]));
+                helper.insertRecipe(db, b_6[0], b_6[1], b_6[2], b_6[3], b_6[4], Integer.parseInt(b_6[5]));
+
+                //insert 6 lunch recipes
+                String[] l_1 = getResources().getStringArray(R.array.lunch1);
+                String[] l_2 = getResources().getStringArray(R.array.lunch2);
+                String[] l_3 = getResources().getStringArray(R.array.lunch3);
+                String[] l_4 = getResources().getStringArray(R.array.lunch4);
+                String[] l_5 = getResources().getStringArray(R.array.lunch5);
+                String[] l_6 = getResources().getStringArray(R.array.lunch6);
+
+                helper.insertRecipe(db, l_1[0], l_1[1], l_1[2], l_1[3], l_1[4], Integer.parseInt(l_1[5]));
+                helper.insertRecipe(db, l_2[0], l_2[1], l_2[2], l_2[3], l_2[4], Integer.parseInt(l_2[5]));
+                helper.insertRecipe(db, l_3[0], l_3[1], l_3[2], l_3[3], l_3[4], Integer.parseInt(l_3[5]));
+                helper.insertRecipe(db, l_4[0], l_4[1], l_4[2], l_4[3], l_4[4], Integer.parseInt(l_4[5]));
+                helper.insertRecipe(db, l_5[0], l_5[1], l_5[2], l_5[3], l_5[4], Integer.parseInt(l_5[5]));
+                helper.insertRecipe(db, l_6[0], l_6[1], l_6[2], l_6[3], l_6[4], Integer.parseInt(l_6[5]));
+
                 db.setTransactionSuccessful();
             }finally {
                 db.endTransaction();

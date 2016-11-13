@@ -17,7 +17,8 @@
         android:text="BreakFast"
         android:id="@+id/type"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold" />
 
     <ScrollView
         android:layout_width="fill_parent"

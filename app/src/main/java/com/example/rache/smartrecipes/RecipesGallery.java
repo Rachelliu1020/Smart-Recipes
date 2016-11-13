@@ -12,6 +12,7 @@ import android.widget.TextView;
 
 public class RecipesGallery extends AppCompatActivity {
     private String[][] arr_recipes;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -133,6 +134,7 @@ public class RecipesGallery extends AppCompatActivity {
         intent.putExtras(bundle);
         startActivity(intent);
     }
+
     public void imgB5OnClick(final View view){
         Intent intent = new Intent(this, Recipe_Activity.class);
         String[] recipeInfo = arr_recipes[4];

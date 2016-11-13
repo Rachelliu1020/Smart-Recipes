@@ -58,7 +58,8 @@
                     android:text="Breakfast"
                     android:id="@+id/text_bf"
                     android:layout_gravity="center_horizontal"
-                    android:gravity="center" />
+                    android:gravity="center"
+                    android:textColor="#000000" />
             </LinearLayout>
 
             <LinearLayout
@@ -83,7 +84,8 @@
                     android:text="Lunch"
                     android:id="@+id/text_lunch"
                     android:gravity="center"
-                    android:layout_gravity="center_horizontal" />
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#000000" />
             </LinearLayout>
 
             <LinearLayout
@@ -107,7 +109,8 @@
                     android:text="Dinner"
                     android:id="@+id/text_dinner"
                     android:gravity="center"
-                    android:layout_gravity="center_horizontal" />
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#000000" />
             </LinearLayout>
 
         </LinearLayout>
@@ -121,7 +124,8 @@
             android:layout_marginTop="56dp"
             android:layout_below="@+id/linearLayout"
             android:layout_centerHorizontal="true"
-            android:gravity="top|center" />
+            android:gravity="top|center"
+            android:textStyle="bold" />
 
         <ImageView
             android:layout_width="229dp"

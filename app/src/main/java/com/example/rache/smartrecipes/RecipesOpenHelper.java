@@ -7,20 +7,17 @@ import android.database.DatabaseUtils;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-/**
- * Created by rache on 10/30/2016.
- */
 public class RecipesOpenHelper extends SQLiteOpenHelper {
-    private static final String DB_NAME="recipes.db";
-    private static final int SCHEMA_VERSION= 1;
-    private static final String TABLE_NAME="recipes";
-    private static final String COL_ID="_id";
-    private static final String COL_TYPE="type";
-    private static final String COL_NAME="name";
-    private static final String COL_PIC="picturePath";
-    private static final String COL_INGREDIENTS="ingredients";
-    private static final String COL_METHODS="methods";
-    private static final String COL_CALORIES="calories";
+    private static final String DB_NAME = "recipes.db";
+    private static final int SCHEMA_VERSION = 1;
+    private static final String TABLE_NAME = "recipes";
+    private static final String COL_ID = "_id";
+    private static final String COL_TYPE = "type";
+    private static final String COL_NAME = "name";
+    private static final String COL_PIC = "picturePath";
+    private static final String COL_INGREDIENTS = "ingredients";
+    private static final String COL_METHODS = "methods";
+    private static final String COL_CALORIES = "calories";
 
     public RecipesOpenHelper(final Context context){
         super(context, DB_NAME, null, SCHEMA_VERSION);
